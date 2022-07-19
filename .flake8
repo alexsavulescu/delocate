@@ -5,3 +5,4 @@ per-file-ignores =
 select = E,F,W
 ignore = W503,W504,E203
 exclude = versioneer.py delocate/_version.py
+
